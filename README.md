@@ -1,6 +1,5 @@
 # Recipe
-Create and store recipes and print the desired recipes : Team Project with Schoolmates
-- 2018.06
+Create and store recipes and print the desired recipes : Team Project with Schoolmates (2018.06)
 
 # participants
 
