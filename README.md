@@ -9,4 +9,6 @@ Create and store recipes and print the desired recipes : Team Project with Schoo
   - 유학현
 
 # File Description
-
+- program files	:: Source code
+- Team3 Usage scenario.mp4
+- project design.pdf
